@@ -42,7 +42,7 @@ function getMealList(){
 
 }
 
-//get recipe of the meal
+//get recipe of the meal from the mealdb api
 function getMealRecipe(e){
     e.preventDefault();
     if(e.target.classList.contains('recipe-btn')){
