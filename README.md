@@ -30,3 +30,12 @@ Recipe Finder is a web application that allows users to find meals based on the 
 
 ## License
 This project is licensed under the MIT License.
+
+## How to Contribute
+
+1. **Fork the Repository**: Start by forking the Recipe Finder repository to your own GitHub account.
+
+2. **Clone the Repository**: After forking, clone the repository to your local machine to make changes.
+
+
+
